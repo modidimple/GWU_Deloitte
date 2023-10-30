@@ -1,0 +1,26 @@
+                 term     d0                             term     d1                   term     d2                            term     d3
+          breach+hack 0.5228              insufficient+breach 0.9492           laptop+steal 0.9406         unauthorizedaccess+hack 0.6404
+             incident 0.3842                      breach+hack 0.3138               employee 0.2462                          system 0.3520
+                 data 0.3486                             data 0.0208            breach+hack 0.1741                   investigation 0.3339
+                fraud 0.3355                         personal 0.0045                   data 0.1097                        employee 0.3026
+        investigation 0.2821                         incident 0.0034               personal 0.0846              unauthorized+party 0.2868
+   unauthorized+party 0.2746                     laptop+steal 0.0013               customer 0.0448                        incident 0.2537
+                 card 0.2181          unauthorizedaccess+hack 0.0011               incident 0.0264                     breach+hack 0.2178
+             customer 0.1929                    investigation 0.0007                 system 0.0263                            data 0.1936
+             employee 0.1908                         customer 0.0005          investigation 0.0257                        personal 0.1232
+               system 0.1898                           system 0.0004                   card 0.0222                        customer 0.0830
+ breach+hack+incident    nan  insufficient+breach+breach+hack    nan  laptop+steal+employee    nan  unauthorizedaccess+hack+system    nan
+
+               term     d4                     term     d5
+           personal 0.9355                     card 0.6379
+           incident 0.2270           payment+server 0.5377
+               data 0.1249                 customer 0.3969
+        breach+hack 0.1196                     data 0.2052
+ unauthorized+party 0.1083              breach+hack 0.1689
+           employee 0.0897       unauthorized+party 0.1597
+      investigation 0.0773                   system 0.1378
+              fraud 0.0686            investigation 0.1038
+           customer 0.0655                 incident 0.0888
+             system 0.0617  unauthorizedaccess+hack 0.0824
+  personal+incident    nan      card+payment+server    nan
+

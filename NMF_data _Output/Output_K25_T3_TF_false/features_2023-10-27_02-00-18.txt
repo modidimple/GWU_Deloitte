@@ -1,0 +1,91 @@
+              term     d0           term     d1                term     d2        term     d3
+            attack 0.8817  investigation 0.9852  unauthorizedaccess 0.9897        bank 0.9903
+        ransomware 0.3620         launch 0.1070            external 0.0764        rout 0.0611
+           encrypt 0.1289         engage 0.0758            database 0.0680   sensitive 0.0507
+             cyber 0.1176          learn 0.0568                fund 0.0398     utility 0.0386
+           malware 0.0986       internal 0.0380          disclosure 0.0268     deposit 0.0330
+          attacker 0.0970       commence 0.0348              permit 0.0245    initiate 0.0270
+            ransom 0.0714       conclude 0.0292                 cpc 0.0242  separately 0.0240
+             learn 0.0668         reveal 0.0282               learn 0.0241     village 0.0238
+      sophisticate 0.0584         retain 0.0233           sensitive 0.0233   interfere 0.0226
+        experience 0.0467      undertake 0.0160                xxxx 0.0193      design 0.0215
+ attack+ransomware    nan  investigation    nan  unauthorizedaccess    nan        bank    nan
+
+       term     d4          term     d5        term     d6            term     d7
+   employee 0.9957        server 0.9864       party 0.9938          expose 0.9072
+      learn 0.0387      database 0.0569   malicious 0.0537         element 0.3709
+    insider 0.0321          host 0.0504  credential 0.0294       sensitive 0.1196
+  dishonest 0.0212       encrypt 0.0469    commerce 0.0238         malware 0.1181
+ credential 0.0201      external 0.0395       learn 0.0232           error 0.0346
+      stock 0.0174  paperlesspay 0.0367    disclose 0.0222        physical 0.0275
+ contractor 0.0158      opticsml 0.0295  specialist 0.0196          dental 0.0243
+  sensitive 0.0155    electronic 0.0289        host 0.0181         attempt 0.0224
+    benefit 0.0147     ascension 0.0286    internal 0.0168        external 0.0221
+   internal 0.0121      stanwich 0.0282      engage 0.0147          infect 0.0204
+   employee    nan        server    nan       party    nan  expose+element    nan
+
+               term     d8             term     d9                term    d10        term    d11
+           incident 0.9960            drive 0.9464        unauthorized 0.9960        card 0.9865
+              learn 0.0475        sensitive 0.1603               learn 0.0586  expiration 0.1510
+         experience 0.0290            flash 0.1506  annualcreditreport 0.0221  cardholder 0.0300
+             engage 0.0182       electronic 0.1075                fund 0.0175    commerce 0.0123
+              agent 0.0126         external 0.0862          electronic 0.0170     encrypt 0.0116
+             effort 0.0123     physicalloss 0.0731           advisable 0.0145     legible 0.0111
+ annualcreditreport 0.0114            stock 0.0614         acquisition 0.0145        risk 0.0103
+            restore 0.0113         misplace 0.0542            database 0.0143       guest 0.0102
+                csd 0.0112           abbott 0.0484              script 0.0112   processor 0.0100
+            control 0.0107          auditor 0.0459             install 0.0109    military 0.0098
+           incident    nan  drive+sensitive    nan        unauthorized    nan        card    nan
+
+                 term    d12                  term    d13         term    d14         term    d15
+                 hack 0.9091              personal 0.9978     customer 0.9954       laptop 0.9841
+             external 0.3233          physicalloss 0.0215     commerce 0.0400    sensitive 0.0917
+         physicalloss 0.1470              prohibit 0.0175     database 0.0338         PORT 0.0682
+              insider 0.1050  unintendeddisclosure 0.0132    experians 0.0335        steal 0.0586
+ unintendeddisclosure 0.1034              resource 0.0121  eligibility 0.0235   electronic 0.0568
+              malware 0.0804              superior 0.0120    malicious 0.0149         fall 0.0426
+          involvement 0.0506                design 0.0105        error 0.0126      encrypt 0.0405
+          intentional 0.0440             sensitive 0.0100       mobile 0.0103  theftlaptop 0.0399
+         organization 0.0401                  risk 0.0098         skim 0.0102         loss 0.0300
+             disclose 0.0385              approval 0.0095         risk 0.0099     burglary 0.0208
+        hack+external    nan              personal    nan     customer    nan       laptop    nan
+
+       term    d16                term    d17           term    d18           term    d19
+     impact 0.9939               fraud 0.9889     compromise 0.9952          write 0.9888
+  specialty 0.0375            creditor 0.1178     credential 0.0414          error 0.0517
+ specialist 0.0353             entitle 0.0347     disclosure 0.0366            gov 0.0407
+      nidec 0.0239          specialist 0.0246     expiration 0.0334       resource 0.0398
+     folder 0.0209           procedure 0.0234     electronic 0.0239        exhibit 0.0331
+     manual 0.0205             display 0.0230            cvc 0.0219  substantially 0.0330
+  sensitive 0.0204         documentary 0.0225        control 0.0200       solution 0.0317
+  clientdef 0.0197  annualcreditreport 0.0169           film 0.0142         advise 0.0297
+    element 0.0190            military 0.0157  reimbursement 0.0136           fund 0.0279
+   initiate 0.0172                 gov 0.0140           host 0.0129       clerical 0.0250
+     impact    nan               fraud    nan     compromise    nan          write    nan
+
+       term    d20           term    d21                 term    d22        term    d23
+    payment 0.9762   insufficient 0.9964             phishing 0.9341      system 0.9907
+       card 0.1406  determination 0.0619           expiration 0.2335     malware 0.0702
+    malware 0.1090       classify 0.0569             campaign 0.1279       point 0.0315
+ expiration 0.0500     accurately 0.0105             external 0.1094  ransomware 0.0283
+  malicious 0.0490          label 0.0049           credential 0.1087     encrypt 0.0266
+ cardholder 0.0439     categorize 0.0048           cardholder 0.0743  electronic 0.0258
+     design 0.0357     impossible 0.0037               target 0.0683    external 0.0248
+ restaurant 0.0325      certainty 0.0029                 wise 0.0577    internal 0.0237
+    install 0.0214            nan 0.0020                 scam 0.0500       virus 0.0217
+   external 0.0202    corporation 0.0018               attack 0.0494      infect 0.0203
+    payment    nan   insufficient    nan  phishing+expiration    nan      system    nan
+
+       term    d24
+      steal 0.9813
+   physical 0.0835
+       wood 0.0689
+  sensitive 0.0473
+   attacker 0.0409
+ physically 0.0374
+ credential 0.0346
+       film 0.0345
+      woman 0.0327
+      thief 0.0312
+      steal    nan
+

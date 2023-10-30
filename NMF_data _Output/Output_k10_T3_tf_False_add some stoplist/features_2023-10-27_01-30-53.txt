@@ -1,0 +1,39 @@
+               term     d0                term     d1                term     d2                term     d3
+              fraud 0.9887            employee 0.9650       investigation 0.9694              system 0.9395
+           creditor 0.1179               steal 0.1299  unauthorizedaccess 0.1342                hack 0.1388
+            entitle 0.0346              laptop 0.1229              launch 0.1072  unauthorizedaccess 0.1305
+         specialist 0.0246            phishing 0.0913              impact 0.0831             malware 0.1167
+          procedure 0.0232  unauthorizedaccess 0.0873              engage 0.0769            external 0.1077
+            display 0.0231           sensitive 0.0527               learn 0.0663              attack 0.1014
+        documentary 0.0224               drive 0.0494            internal 0.0400          compromise 0.0853
+ annualcreditreport 0.0170               learn 0.0368            commence 0.0356              server 0.0786
+               bank 0.0170          credential 0.0322               party 0.0355          ransomware 0.0765
+           military 0.0159                bank 0.0316            conclude 0.0300             payment 0.0489
+              fraud    nan            employee    nan       investigation    nan         system+hack    nan
+
+       term     d4                term     d5                         term     d6           term     d7
+   incident 0.9864        unauthorized 0.8738                     customer 0.9551   insufficient 0.9883
+      write 0.1207               party 0.4681           unauthorizedaccess 0.1551         laptop 0.0878
+     impact 0.0566               learn 0.0601                         hack 0.1087          steal 0.0858
+      learn 0.0442             payment 0.0490                       server 0.0939  determination 0.0613
+ experience 0.0324                hack 0.0463                        party 0.0863       classify 0.0587
+ compromise 0.0196            phishing 0.0440                         bank 0.0780      sensitive 0.0127
+   phishing 0.0172              server 0.0409                   compromise 0.0722     accurately 0.0104
+       hack 0.0168           malicious 0.0320                     external 0.0656          drive 0.0093
+     engage 0.0161          credential 0.0190                     database 0.0541     electronic 0.0089
+ ransomware 0.0141  annualcreditreport 0.0146                       expose 0.0463       physical 0.0077
+   incident    nan  unauthorized+party    nan  customer+unauthorizedaccess    nan   insufficient    nan
+
+               term     d8          term     d9
+           personal 0.9847          card 0.9184
+              write 0.0948       payment 0.3391
+              steal 0.0558    expiration 0.1613
+             laptop 0.0472    compromise 0.0882
+ unauthorizedaccess 0.0411    cardholder 0.0437
+             impact 0.0393       malware 0.0404
+         compromise 0.0359     malicious 0.0217
+               bank 0.0342          bank 0.0176
+             expose 0.0332        design 0.0161
+       physicalloss 0.0318      commerce 0.0147
+           personal    nan  card+payment    nan
+

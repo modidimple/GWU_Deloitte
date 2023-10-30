@@ -1,0 +1,39 @@
+                    term     d0                    term     d1               term     d2                term     d3
+            segmentation 0.3801                 jocelyn 0.2676            edelman 0.4108                card 0.1514
+              accelerate 0.3331          accountability 0.2675          moskowitz 0.4108              system 0.1491
+               withstand 0.3268             portability 0.2588             dicker 0.4108                data 0.1430
+                  tactic 0.2938              deficiency 0.2371              elser 0.4044       investigation 0.1418
+                endpoint 0.2897              settlement 0.2370                llp 0.2455            incident 0.1308
+              deployment 0.2822                   adopt 0.2174             ferris 0.2335               party 0.1270
+                  harden 0.2496                   civil 0.1856                owl 0.2059             payment 0.1265
+                     fix 0.2472                 walther 0.1713              night 0.1929        unauthorized 0.1208
+             enhancement 0.1935                wittmann 0.1713         wholesaler 0.1847            customer 0.1173
+                  effort 0.1777               violation 0.1696        hereinafter 0.1481  unauthorizedaccess 0.1128
+ segmentation+accelerate    nan  jocelyn+accountability    nan  edelman+moskowitz    nan         card+system    nan
+
+                             term     d4                                               term     d5                                              term     d6                                               term     d7
+               thiscodeallowedthe 0.3029                                       areunawareof 0.2077                                 wehaveundertakena 0.2046                          wedevotedconsiderabletime 0.2331
+                              isa 0.3029  websiteandunauthorizedaccesstoanamcadatabaseco... 0.2077                    mayhaveoccurredasearlyasaugust 0.2046                                         andjanuary 0.2331
+       maliciouscodetoschwaabsweb 0.3029                systemswasnotaffectedbythisincident 0.2077                                      contactedthe 0.2046  werecentlylearnedthatanunauthorizedindividualm... 0.2331
+                      sellsrubber 0.3029                        weareutilizingcybersecurity 0.2077                                 implementenhanced 0.2046                                           theemail 0.2331
+ individualtoaccessschwaabssystem 0.3029  investigationtoidentifytheaffectedindividualsa... 0.2077                             comprehensivereviewof 0.2046  weimmediatelylaunchedaninvestigationinconsulta... 0.2331
+    learningofthesecurityincident 0.3029                               weimmediatelybeganan 0.2077                                 unauthorizedparty 0.2046                                    aphishingattack 0.2331
+                    thatoperatese 0.3029                                          themisuse 0.2077          throughourinvestigationofaninternalalert 0.2046                                wediscoveredonapril 0.2331
+               individualuploaded 0.3029                                          expertsto 0.2077                               afterlearningofthis 0.2046  accountsandthesecurityoftheemailsandattachment... 0.2331
+                              pci 0.2683                                             amcais 0.2041                    potentiallyaccessiblefromthose 0.2046                  employeesemailaccountsasaresultof 0.2331
+                          schwaab 0.2453                                       collectionof 0.2033                                  alertingsoftware 0.2046  impactedemailaccountsthatwereaccessedbetweenno... 0.2331
+           thiscodeallowedthe+isa    nan  areunawareof+websiteandunauthorizedaccesstoana...    nan  wehaveundertakena+mayhaveoccurredasearlyasaugust    nan               wedevotedconsiderabletime+andjanuary    nan
+
+                 term     d8                                               term     d9
+          prescreened 0.2313                                 andyourinformation 0.2217
+             violator 0.2269  theinformationpotentiallyaffectedincludesyourname 0.2217
+             negative 0.2249  theforensicinvestigationdeterminedthatcustomer... 0.2217
+         unverifiable 0.2164  creditordebitcardwasusedforatransactiononourwe... 0.2217
+           incomplete 0.2152                                  occurredondarwins 0.2217
+           inaccurate 0.2134            newcustomercheckoutpagebetweenseptember 0.2217
+             outdated 0.2122      newcustomerplatformwerepotentiallycompromised 0.2217
+            summarize 0.1860                                           aboutmay 0.2217
+            formulate 0.1841        madeawarethatsomecreditcardsusedonitsonline 0.2217
+               bucket 0.1733                                  partyforensicfirm 0.2217
+ prescreened+violator    nan  andyourinformation+theinformationpotentiallyaf...    nan
+

@@ -1,0 +1,26 @@
+                  term     d0                term     d1                                   term     d2                term     d3
+              personal 0.4524              impact 0.9308                      attack+ransomware 0.8264               write 0.9300
+          insufficient 0.4273            incident 0.1814                    phishing+expiration 0.4071            incident 0.2889
+              incident 0.3298       investigation 0.1739                                 system 0.1693            personal 0.1989
+                 fraud 0.3054            personal 0.1198                               employee 0.1419              impact 0.0492
+         investigation 0.2675              system 0.1077                          investigation 0.1249  unauthorizedaccess 0.0424
+          unauthorized 0.2169        unauthorized 0.0923                                  party 0.1088               party 0.0335
+              employee 0.2125               party 0.0900                     unauthorizedaccess 0.1062                card 0.0319
+                  card 0.2104  unauthorizedaccess 0.0836                             compromise 0.1045        unauthorized 0.0278
+              customer 0.1546            employee 0.0677                          hack+external 0.1019                bank 0.0277
+                system 0.1517            customer 0.0531                           unauthorized 0.0968      expose+element 0.0241
+ personal+insufficient    nan     impact+incident    nan  attack+ransomware+phishing+expiration    nan      write+incident    nan
+
+               term     d4             term     d5
+      hack+external 0.3935            steal 0.6363
+               card 0.3247           laptop 0.6283
+ unauthorizedaccess 0.3074  drive+sensitive 0.3606
+       unauthorized 0.2926         employee 0.2154
+              party 0.2855         personal 0.0837
+            payment 0.2751   expose+element 0.0800
+         compromise 0.2602             bank 0.0591
+             system 0.2548         customer 0.0438
+           customer 0.2272    hack+external 0.0315
+      investigation 0.2109           server 0.0274
+ hack+external+card    nan     steal+laptop    nan
+

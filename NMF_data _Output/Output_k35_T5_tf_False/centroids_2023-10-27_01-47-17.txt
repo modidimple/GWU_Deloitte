@@ -1,0 +1,26 @@
+                 term     d0                     term     d1             term     d2                term     d3
+      expiration+card 0.6487           write+incident 0.9443             bank 0.9504                hack 0.3104
+                 card 0.4856                 incident 0.2180             card 0.1405            external 0.3003
+         payment+card 0.3908                 personal 0.2045         customer 0.0923            employee 0.2746
+             customer 0.2278                   impact 0.0633         personal 0.0872  unauthorizedaccess 0.2699
+           compromise 0.2248       unauthorizedaccess 0.0434  design+prohibit 0.0859              system 0.2493
+              malware 0.1438                    party 0.0366            steal 0.0786               party 0.2438
+      malicious+error 0.1296              gov+idtheft 0.0357         employee 0.0779        unauthorized 0.2397
+         unauthorized 0.0929             unauthorized 0.0314       compromise 0.0755       investigation 0.2314
+               system 0.0831                     card 0.0308        sensitive 0.0707            incident 0.2029
+                 hack 0.0757          fcra+inaccurate 0.0290             hack 0.0606           sensitive 0.1980
+ expiration+card+card    nan  write+incident+incident    nan        bank+card    nan       hack+external    nan
+
+            term     d4               term     d5
+    insufficient 1.0000           personal 0.4487
+        personal 0.0049           incident 0.3519
+        incident 0.0038              fraud 0.2988
+ design+prohibit 0.0026      investigation 0.2682
+           steal 0.0025       unauthorized 0.2280
+            hack 0.0022               card 0.2136
+           drive 0.0015    design+prohibit 0.2110
+      compromise 0.0014        gov+idtheft 0.1927
+          laptop 0.0013           employee 0.1821
+          impact 0.0012           customer 0.1764
+    insufficient    nan  personal+incident    nan
+

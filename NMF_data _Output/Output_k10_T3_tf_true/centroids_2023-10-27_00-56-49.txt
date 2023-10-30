@@ -1,0 +1,26 @@
+                                              term     d0                                               term     d1                                               term     d2                                               term     d3
+                                       card+system 0.9104                             thiscodeallowedthe+isa 1.0000  andyourinformation+theinformationpotentiallyaf... 1.0000               wedevotedconsiderabletime+andjanuary 1.0000
+                              prescreened+violator 0.2642                            segmentation+accelerate 0.0000                            segmentation+accelerate 0.0000                            segmentation+accelerate 0.0000
+                            jocelyn+accountability 0.2615                             jocelyn+accountability 0.0000                             jocelyn+accountability 0.0000                             jocelyn+accountability 0.0000
+                           segmentation+accelerate 0.1142                                  edelman+moskowitz 0.0000                                  edelman+moskowitz 0.0000                                  edelman+moskowitz 0.0000
+ areunawareof+websiteandunauthorizedaccesstoana... 0.1065                                        card+system 0.0000                                        card+system 0.0000                                        card+system 0.0000
+                                 edelman+moskowitz 0.0910  areunawareof+websiteandunauthorizedaccesstoana... 0.0000                             thiscodeallowedthe+isa 0.0000                             thiscodeallowedthe+isa 0.0000
+                            thiscodeallowedthe+isa 0.0110   wehaveundertakena+mayhaveoccurredasearlyasaugust 0.0000  areunawareof+websiteandunauthorizedaccesstoana... 0.0000  areunawareof+websiteandunauthorizedaccesstoana... 0.0000
+              wedevotedconsiderabletime+andjanuary 0.0080               wedevotedconsiderabletime+andjanuary 0.0000   wehaveundertakena+mayhaveoccurredasearlyasaugust 0.0000   wehaveundertakena+mayhaveoccurredasearlyasaugust 0.0000
+  wehaveundertakena+mayhaveoccurredasearlyasaugust 0.0061                               prescreened+violator 0.0000               wedevotedconsiderabletime+andjanuary 0.0000                               prescreened+violator 0.0000
+ andyourinformation+theinformationpotentiallyaf... 0.0035  andyourinformation+theinformationpotentiallyaf... 0.0000                               prescreened+violator 0.0000  andyourinformation+theinformationpotentiallyaf... 0.0000
+                  card+system+prescreened+violator    nan                             thiscodeallowedthe+isa    nan  andyourinformation+theinformationpotentiallyaf...    nan               wedevotedconsiderabletime+andjanuary    nan
+
+                                              term     d4                                               term     d5
+  wehaveundertakena+mayhaveoccurredasearlyasaugust 1.0000                            segmentation+accelerate 1.0000
+                                       card+system 0.0016                                        card+system 0.0082
+                              prescreened+violator 0.0016                             jocelyn+accountability 0.0011
+                                 edelman+moskowitz 0.0012  areunawareof+websiteandunauthorizedaccesstoana... 0.0006
+ andyourinformation+theinformationpotentiallyaf... 0.0012                               prescreened+violator 0.0004
+                           segmentation+accelerate 0.0009               wedevotedconsiderabletime+andjanuary 0.0001
+                            jocelyn+accountability 0.0000                             thiscodeallowedthe+isa 0.0000
+                            thiscodeallowedthe+isa 0.0000   wehaveundertakena+mayhaveoccurredasearlyasaugust 0.0000
+ areunawareof+websiteandunauthorizedaccesstoana... 0.0000                                  edelman+moskowitz 0.0000
+              wedevotedconsiderabletime+andjanuary 0.0000  andyourinformation+theinformationpotentiallyaf... 0.0000
+  wehaveundertakena+mayhaveoccurredasearlyasaugust    nan                            segmentation+accelerate    nan
+

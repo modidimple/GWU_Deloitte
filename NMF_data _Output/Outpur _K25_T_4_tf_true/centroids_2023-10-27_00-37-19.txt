@@ -1,0 +1,26 @@
+                                        term     d0                                               term     d1                                               term     d2                                               term     d3
+                            informacin+datos 0.4473                     sellsrubber+thiscodeallowedthe 1.0000           areunawareof+weareutilizingcybersecurity 1.0000  newcustomercheckoutpagebetweenseptember+subjec... 1.0000
+                  accountability+portability 0.3908                                  moskowitz+edelman 0.0000  newcustomercheckoutpagebetweenseptember+subjec... 0.0014                                        urance+hing 0.0001
+                                 urance+hing 0.3596                                 seabourn+australia 0.0000                           ardholdevre+rificatiovna 0.0004                                    iuformatiou+auy 0.0000
+                    ardholdevre+rificatiovna 0.3000                     implementenhanced+contactedthe 0.0000                                   informacin+datos 0.0003                                   informacin+datos 0.0000
+                           moskowitz+edelman 0.2849                                    iuformatiou+auy 0.0000                                  moskowitz+edelman 0.0003                                  moskowitz+edelman 0.0000
+                               servicien+ood 0.2705  newcustomercheckoutpagebetweenseptember+subjec... 0.0000                                        urance+hing 0.0003                                      salsey+stemsa 0.0000
+                                plead+guilty 0.2588                                   informacin+datos 0.0000                               tavares+adventhealth 0.0002                                 seabourn+australia 0.0000
+                 certaintechnology+ascension 0.2260                               prescreened+violator 0.0000                                    iuformatiou+auy 0.0002                     implementenhanced+contactedthe 0.0000
+                             iuformatiou+auy 0.1881           areunawareof+weareutilizingcybersecurity 0.0000                     implementenhanced+contactedthe 0.0002                               prescreened+violator 0.0000
+                            formulate+bucket 0.1655                         accountability+portability 0.0000                                 seabourn+australia 0.0002           areunawareof+weareutilizingcybersecurity 0.0000
+ informacin+datos+accountability+portability    nan                     sellsrubber+thiscodeallowedthe    nan           areunawareof+weareutilizingcybersecurity    nan  newcustomercheckoutpagebetweenseptember+subjec...    nan
+
+                                              term     d4                                               term     d5
+                    implementenhanced+contactedthe 1.0000  impactedemailaccountsthatwereaccessedbetweenno... 1.0000
+          areunawareof+weareutilizingcybersecurity 0.0014                        certaintechnology+ascension 0.0013
+ newcustomercheckoutpagebetweenseptember+subjec... 0.0012                               tavares+adventhealth 0.0012
+                        accountability+portability 0.0007                              oitnb+thedarkoverlord 0.0003
+                                     servicien+ood 0.0004                                  moskowitz+edelman 0.0001
+                                  informacin+datos 0.0004                             vestigationd+securityn 0.0000
+                                seabourn+australia 0.0003                                     ccounmt+umbear 0.0000
+                                       urance+hing 0.0003                         accountability+portability 0.0000
+                          ardholdevre+rificatiovna 0.0002                                 seabourn+australia 0.0000
+                            vestigationd+securityn 0.0002                     implementenhanced+contactedthe 0.0000
+                    implementenhanced+contactedthe    nan  impactedemailaccountsthatwereaccessedbetweenno...    nan
+

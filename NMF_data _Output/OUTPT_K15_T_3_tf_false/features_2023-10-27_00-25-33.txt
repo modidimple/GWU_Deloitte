@@ -1,0 +1,52 @@
+        term     d0                 term     d1        term     d2           term     d3
+       fraud 0.9831         insufficient 0.9660      system 0.9694  investigation 0.9783
+    creditor 0.1169               breach 0.2445      attack 0.0988         launch 0.1081
+        step 0.0970        determination 0.0608     malware 0.0957         impact 0.0806
+    business 0.0368             classify 0.0505  compromise 0.0802         engage 0.0775
+     entitle 0.0348              payment 0.0151  ransomware 0.0727          learn 0.0641
+  specialist 0.0240   unauthorizedaccess 0.0119        hack 0.0724          party 0.0464
+     display 0.0233           accurately 0.0094    external 0.0568       internal 0.0396
+        toll 0.0231               laptop 0.0067     encrypt 0.0424           step 0.0395
+   procedure 0.0230               system 0.0062      impact 0.0416       commence 0.0354
+ documentary 0.0222               impact 0.0061       party 0.0411       conclude 0.0292
+       fraud    nan  insufficient+breach    nan      system    nan  investigation    nan
+
+                    term     d4          term     d5          term     d6        term     d7
+      unauthorizedaccess 0.9614        laptop 0.6994          card 0.9726    employee 0.9895
+                    hack 0.1640         steal 0.6802    expiration 0.1673    phishing 0.0945
+                external 0.1413     sensitive 0.1142    compromise 0.1125       learn 0.0393
+                   party 0.0801         drive 0.0834       payment 0.0894  credential 0.0314
+                database 0.0686    electronic 0.0632    cardholder 0.0352       drive 0.0313
+                  server 0.0658      physical 0.0527          bank 0.0294     insider 0.0263
+              compromise 0.0411          PORT 0.0508      customer 0.0187   sensitive 0.0231
+                phishing 0.0384          fall 0.0443      commerce 0.0142        bank 0.0222
+                    fund 0.0363        expose 0.0423          hack 0.0126      attack 0.0216
+              disclosure 0.0289      business 0.0388  unauthorized 0.0107   dishonest 0.0196
+ unauthorizedaccess+hack    nan  laptop+steal    nan          card    nan    employee    nan
+
+           term     d8                  term     d9         term    d10          term    d11
+        payment 0.9175                breach 0.9607     customer 0.9785      personal 0.9879
+         server 0.3563                  hack 0.1840        party 0.1635         write 0.0930
+        malware 0.1211              external 0.0912         bank 0.0600          step 0.0819
+      malicious 0.0520          physicalloss 0.0910     commerce 0.0429        impact 0.0393
+       external 0.0404                server 0.0559    experians 0.0321          bank 0.0287
+         design 0.0376              business 0.0526     database 0.0310    compromise 0.0265
+     cardholder 0.0316  unintendeddisclosure 0.0496       expose 0.0293        expose 0.0229
+     restaurant 0.0315               insider 0.0452   compromise 0.0242  physicalloss 0.0199
+        install 0.0283            electronic 0.0421  eligibility 0.0231      prohibit 0.0180
+          track 0.0207            compromise 0.0407    malicious 0.0222      resource 0.0165
+ payment+server    nan           breach+hack    nan     customer    nan      personal    nan
+
+       term    d12                term    d13        term    d14
+       data 0.9933        unauthorized 0.9144    incident 0.9795
+    element 0.0413               party 0.3891        step 0.1267
+ compromise 0.0405               learn 0.0590       write 0.1163
+     impact 0.0348                hack 0.0458      impact 0.0499
+      steal 0.0243            phishing 0.0435       learn 0.0450
+ ransomware 0.0232           malicious 0.0236  experience 0.0292
+     server 0.0232  annualcreditreport 0.0175        hack 0.0178
+     expose 0.0227                toll 0.0170    phishing 0.0170
+      write 0.0212          credential 0.0169      engage 0.0162
+   database 0.0185                fund 0.0126        toll 0.0139
+       data    nan  unauthorized+party    nan    incident    nan
+

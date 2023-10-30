@@ -1,0 +1,84 @@
+INSTRUCTIONS:
+
+0. Open terminal in PyCharm: cd C:\Users\path\to\nmf
+1. Run NMF routines: C:\Python27\python.exe .\BatchDriver.py
+2. (optional) Update/check K, H, fn in make_graph_script2.py
+3. (optional) Generate file for Gephi: C:\Python27\python.exe .\make_graph_script2.py
+4. (optional) Start Gephi
+-- Open Graph File
+-- Layout: Force Atlas -> Run -> Stop
+-- Community detection -> Modularity -> run
+-- Appearance -> Nodes -> partition -> color -> Modularity class 
+-- Labels
+-- Preview 
+-- Export
+
+Setup steps:
+- Install sublime text editor for basic stuff: notes, veiwing files etc.
+- Install Pycharm community edition to work with Python in detail
+- Install Python 2 to run my old files
+
+- Started by running old unit tests: nmf/TestPreprocess.py
+-- Needed to install numpy 
+--- C:\Python27\Scripts>.\pip.exe install numpy
+-- made new directory C:\Temp
+-- Made configuration in PyCharm "TestPreprocess.py" to run unit test
+-- installed nltk package
+---- could not build "regex" package from C code
+---- installed prebuilt binary from: https://www.lfd.uci.edu/~gohlke/pythonlibs/
+---- C:\Python27\Scripts>.\pip.exe install C:\Users\lisah\Downloads\regex-2020.1.8-cp27-cp27m-win_amd64.whl
+---- saw this error "print("%*s" % (width, samples[i]), end=" ")", print() is for Python 3, not Python 2
+---- googled, tried C:\Python27\Scripts>.\pip.exe install nltk==3.4.5
+-- changed all iopro. to np.
+-- commented out iopro import
+
+- Started running old TestNMF.py file 
+-- Commented out all tests except test_sparse b/c that is the only trustworthy approach
+-- made new pycharm run configuration "TestNMF.py"
+-- installed scipy: C:\Python27\Scripts>.\pip.exe install scipy
+-- installed matplotlib: C:\Python27\Scripts>.\pip.exe install matplotlib
+-- installed scikit-learn: C:\Python27\Scripts>.\pip.exe install scikit-learn
+-- changed NMF.py line 341: err = np.zeros(int(np.floor(max_iter/check_iter)))
+-- changed NMF.py line 276: err[0:int(np.floor(best_iter/check_iter))], 'bo-')
+-- changed all iopro. to np.
+-- commented out iopro import
+
+- Started running old TestPostprocess.py
+-- installed pandas: C:\Python27\Scripts>.\pip.exe install pandas
+-- changed all iopro. to np.
+-- commented out iopro import
+-- changed line 204: segmenter = cluster.KMeans(init='k-means++', n_clusters=5, n_init=3)
+
+- BatchDriver.py
+-- changed all iopro. to np.
+-- commented out iopro import
+
+- Created new simple script for generating Gephi file: make_graph_script2.py
+
+- install Gephi
+
+- installed nltk wordnet for stemming, from python terminal: 
+  >>> import nltk
+  >>> nltk.download('wordnet')
+- select wordnet, install
+
+
+
+---------------------------------------------------------------------------------------------------------
+Notes
+> Executables and files/folders for the programs are all in nmf
+> results will be stored on c:\temp
+> training data is in desktop\nmf 
+> rai - responsible ai - currently has 4 things combined into one corpus (aka training data)
+> batchDriver is the executable that runs preproscessing, nmf, and post-processing which are all threaded 
+>PREPROCESSING
+>1. lower case
+>2. cleaning characters\entity extraction ex) computer vision -> computervision so its one token
+>BatchDriver.py - threshold=5 keep; play with n_features starting 95 and up until error diverges
+
+
+
+
+
+
+

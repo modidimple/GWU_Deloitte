@@ -1,0 +1,26 @@
+                                term     d0                        term     d1                        term     d2                        term     d3
+                            incident 0.5379                laptop+steal 0.9496                    personal 0.9423         breach+insufficient 0.9492
+          investigation+unauthorized 0.4985                    employee 0.2557                    incident 0.2182                        data 0.2462
+                        card+payment 0.3692                        data 0.1108                        data 0.1249                    employee 0.1053
+                                data 0.2965         breach+insufficient 0.1002  investigation+unauthorized 0.1215                laptop+steal 0.0868
+                               fraud 0.2932                    personal 0.0862                    employee 0.1169                card+payment 0.0864
+                            employee 0.2628                card+payment 0.0304         breach+insufficient 0.0909   system+unauthorizedaccess 0.0789
+           system+unauthorizedaccess 0.2572                    incident 0.0285   system+unauthorizedaccess 0.0704  investigation+unauthorized 0.0576
+                        laptop+steal 0.1166   system+unauthorizedaccess 0.0279                       fraud 0.0567                    incident 0.0456
+                            personal 0.0566  investigation+unauthorized 0.0223                laptop+steal 0.0456                       fraud 0.0220
+                 breach+insufficient 0.0086                       fraud 0.0127                card+payment 0.0427                    personal 0.0143
+ incident+investigation+unauthorized    nan       laptop+steal+employee    nan           personal+incident    nan    breach+insufficient+data    nan
+
+                                              term     d4                        term     d5
+                         system+unauthorizedaccess 0.5253                       fraud 0.9990
+                        investigation+unauthorized 0.4933                    incident 0.0252
+                                      card+payment 0.4075                    personal 0.0201
+                                          incident 0.3460                    employee 0.0173
+                                              data 0.3308                card+payment 0.0155
+                                          employee 0.2376  investigation+unauthorized 0.0113
+                                          personal 0.1192   system+unauthorizedaccess 0.0102
+                               breach+insufficient 0.1035                laptop+steal 0.0087
+                                      laptop+steal 0.0520         breach+insufficient 0.0079
+                                             fraud 0.0386                        data 0.0059
+ system+unauthorizedaccess+investigation+unauth...    nan                       fraud    nan
+

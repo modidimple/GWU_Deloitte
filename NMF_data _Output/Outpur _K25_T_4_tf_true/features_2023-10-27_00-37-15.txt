@@ -1,0 +1,91 @@
+              term     d0                              term     d1                                               term     d2                                               term     d3
+         moskowitz 0.2794                       sellsrubber 0.3031  incidentalsoinvolvedunauthorizedaccesstoanamca... 0.2163  impactedemailaccountsthatwereaccessedbetweenno... 0.2331
+           edelman 0.2794                thiscodeallowedthe 0.3031                              tosouthtexasspatients 0.2163                  employeesemailaccountsasaresultof 0.2331
+            dicker 0.2794                individualuploaded 0.3031                                  followingpersonal 0.2163                                    anycompromiseof 0.2331
+             elser 0.2752  individualtoaccessschwaabssystem 0.3031  texastoidentifyitspotentiallyaffectedpatientso... 0.2163                                    aphishingattack 0.2331
+      segmentation 0.2717                               isa 0.3031                       adatasecurityincidentonmarch 0.2163                          wedevotedconsiderabletime 0.2331
+        accelerate 0.2374                     thatoperatese 0.3031                          texasalmosttwomonthslater 0.2163                                wediscoveredonapril 0.2331
+         withstand 0.2322        maliciouscodetoschwaabsweb 0.3031                                      notifiedsouth 0.2163  accountsandthesecurityoftheemailsandattachment... 0.2331
+            tactic 0.2094     learningofthesecurityincident 0.3031  basedontheinformationprovidedbyamcaandasaresul... 0.2163  afteranextensiveforensicinvestigationandmanual... 0.2331
+          endpoint 0.2090                               pci 0.2685  southtexaswasnotifiedthatamcahadexperiencedada... 0.2163         regularlyinvestigateandanalyzethesetypesof 0.2331
+        deployment 0.2032                           schwaab 0.2455                  amcalateradvisedsouthtexasthatthe 0.2163                                         andjanuary 0.2331
+ moskowitz+edelman    nan    sellsrubber+thiscodeallowedthe    nan  incidentalsoinvolvedunauthorizedaccesstoanamca...    nan  impactedemailaccountsthatwereaccessedbetweenno...    nan
+
+                 term     d4            term     d5          term     d6              term     d7
+              tavares 0.2893         ccounmt 0.2917         plead 0.2866         formulate 0.3324
+         adventhealth 0.2881          umbear 0.2917        guilty 0.2863            bucket 0.3137
+            pulmonary 0.2652        ecurityn 0.2917     aggravate 0.2545         athletics 0.3090
+                sleep 0.2478    nformatioans 0.2917        prison 0.2488           athlete 0.2997
+               weight 0.2323           theri 0.2917   restitution 0.2086           amateur 0.2878
+       hashedpassword 0.2144          umbera 0.2917    conspiracy 0.1936          athletic 0.2720
+          andpurchase 0.2144            oura 0.2560     dishonest 0.1632       recruitment 0.2629
+               height 0.2084           yourn 0.2525   conspirator 0.1607              rush 0.2492
+ unauthorizedaccessto 0.1955             ndo 0.2454          trmc 0.1428             rushs 0.1986
+          ourforensic 0.1870         ccounnt 0.2352    indictment 0.1422            injury 0.1749
+ tavares+adventhealth    nan  ccounmt+umbear    nan  plead+guilty    nan  formulate+bucket    nan
+
+          term     d8         term     d9                    term    d10                         term    d11
+     servicien 0.3408       urance 0.3055            vestigationd 0.3899            certaintechnology 0.3626
+           ood 0.3408         hing 0.2787               securityn 0.3899                    ascension 0.3534
+    incidentth 0.2768     tigation 0.2786              eterminedt 0.3899              andprogrammatic 0.3498
+           ouo 0.2768          ity 0.2746                accountn 0.3899                      amanual 0.3498
+      qualityf 0.2768          pfl 0.2578        ccrnprehensivein 0.3899                     stanwich 0.3395
+      writingo 0.2768          std 0.2578                  umberu 0.3324                     opticsml 0.3153
+       informy 0.2768       waiver 0.1914                   umber 0.2690                     pairprep 0.2361
+       behalof 0.2768      premium 0.1698                     hat 0.1430                    analytics 0.1862
+          thew 0.2056      sampson 0.1686                     ndy 0.0413                      custody 0.1701
+ restaurantisn 0.2056         airc 0.1686                     oua 0.0413                      foreign 0.1520
+ servicien+ood    nan  urance+hing    nan  vestigationd+securityn    nan  certaintechnology+ascension    nan
+
+                  term    d12                                               term    d13                  term    d14                      term    d15
+                 oitnb 0.3793                               akpplngpngmgffmbkdgk 0.2751                salsey 0.4468               ardholdevre 0.3354
+       thedarkoverlord 0.3793                               aifbjjfhnnahjghgpdjk 0.2751                stemsa 0.4468              rificatiovna 0.3354
+               episode 0.3764                               aphmpdopkofbgdebmlfk 0.2751              eployedo 0.4468                   numbere 0.2645
+                studio 0.3185                               acocmomkckokigeeikmk 0.2751                 beene 0.4468                       ode 0.2645
+                season 0.3110                                 amlidmphbljjhdonlk 0.2744           ffectivelyd 0.4468                xpirationd 0.2645
+                pirate 0.3004                                 algpbpfpbodmbnaohk 0.2744                 point 0.0433                   ervicec 0.2645
+                  bulk 0.2140                                 aiimdlhjmjfallbjlk 0.2744       usedthesestolen 0.0024                       lue 0.2645
+               premier 0.1429                                 akfemohjnpfoopabmk 0.2744                ofsale 0.0024                     notet 0.2070
+                motive 0.1422                                 dldllldlddlllldddl 0.2744  restaurantilocations 0.0023                      hatt 0.2070
+             extortion 0.1406  spqrqrrpsssqspsrrrpspsqrspqpsppppspsqsprpqrqsr... 0.2685             thattheir 0.0023                       uta 0.2070
+ oitnb+thedarkoverlord    nan          akpplngpngmgffmbkdgk+aifbjjfhnnahjghgpdjk    nan         salsey+stemsa    nan  ardholdevre+rificatiovna    nan
+
+                       term    d16                                               term    d17                  term    d18              term    d19
+             accountability 0.2821                                       areunawareof 0.2629           prescreened 0.2709        informacin 0.1837
+                portability 0.2728                        weareutilizingcybersecurity 0.2629              violator 0.2656             datos 0.1827
+                    jocelyn 0.2641                               weimmediatelybeganan 0.2629              negative 0.2631       estudiantes 0.1783
+                 settlement 0.2570                systemswasnotaffectedbythisincident 0.2629          unverifiable 0.2591           archivo 0.1753
+                 deficiency 0.2311                                          expertsto 0.2629            incomplete 0.2575            triage 0.1723
+                      adopt 0.2295  websiteandunauthorizedaccesstoanamcadatabaseco... 0.2629            inaccurate 0.2548            idcare 0.1685
+                      civil 0.2076  investigationtoidentifytheaffectedindividualsa... 0.2629              outdated 0.2264          problema 0.1684
+                  violation 0.1919                                          themisuse 0.2629             summarize 0.2180          takeover 0.1589
+              noncompliance 0.1732                                             amcais 0.2584       consumerfinance 0.1999             pgina 0.1577
+                     puerto 0.1364                                       collectionof 0.2553                  fcra 0.1915             haber 0.1562
+ accountability+portability    nan           areunawareof+weareutilizingcybersecurity    nan  prescreened+violator    nan  informacin+datos    nan
+
+                                              term    d20             term    d21                                          term    d22                term    d23
+           newcustomercheckoutpagebetweenseptember 0.2218      iuformatiou 0.3979                             implementenhanced 0.2091            seabourn 0.3708
+                    subjecttounauthorizedaccessand 0.2218              auy 0.3534                                  contactedthe 0.2091           australia 0.3708
+ theforensicinvestigationdeterminedthatcustomer... 0.2218              uot 0.3136  withtheassistanceofaleadingcybersecurityfirm 0.2091              cunard 0.3708
+       todeterminethenatureandscopeofthecompromise 0.2218       iudicatiou 0.3136                         comprehensivereviewof 0.2091            carnival 0.3382
+     newcustomerplatformwerepotentiallycompromised 0.2218            phoue 0.2936      throughourinvestigationofaninternalalert 0.2091              cruise 0.3183
+                                          aboutmay 0.2218             mime 0.2936       wemovedquicklytocleantheaffectedservers 0.2091             holland 0.3082
+                                 occurredondarwins 0.2218      poteutially 0.2936                             unauthorizedparty 0.2091             leisure 0.3035
+                                 partyforensicfirm 0.2218           uumber 0.2386                           afterlearningofthis 0.2091            princess 0.2078
+         darwinsimmediatelylaunchedaninvestigation 0.2218     uuauthorized 0.1998                potentiallyaccessiblefromthose 0.2091        unsanctioned 0.1893
+                                andyourinformation 0.2218            usiug 0.1934                                 thedatastored 0.2091                crew 0.1797
+ newcustomercheckoutpagebetweenseptember+subjec...    nan  iuformatiou+auy    nan                implementenhanced+contactedthe    nan  seabourn+australia    nan
+
+                     term    d24
+               estaurants 0.3893
+            potentialliym 0.3158
+                  pactedr 0.3158
+                    tliey 0.3017
+                   tbrcat 0.3017
+                     frcc 0.3017
+                incidentr 0.2732
+                 ecentlya 0.2732
+                nnouncedb 0.2732
+                     imem 0.1714
+ estaurants+potentialliym    nan
+
